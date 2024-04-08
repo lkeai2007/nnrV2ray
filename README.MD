@@ -6,7 +6,7 @@
 3.每12小时自动抓取一次最新的规则并更新订阅链接的数据
 #### 捐赠
 如果该程序对你有所帮助，且想请作者吃根辣条。可以通过以下方式：
-1.
-![alt text](7e7ea71be2bcddbfb962eadbbddb810.jpg)
+
+1.![alt text](7e7ea71be2bcddbfb962eadbbddb810.jpg)
 
 2.https://nnr.moe?aff=10586 用我的邀请链接
